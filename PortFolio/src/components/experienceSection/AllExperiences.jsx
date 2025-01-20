@@ -32,7 +32,7 @@ const experiences = [
     responsibilities: [
       "Design and implement data structures for optimal storage and retrieval of data",
       "Optimize algorithms for problem-solving, ensuring efficiency in time and space complexity.",
-      "Analyze requirements, identify computational challenges, and provide scalable solutions using DSA principles",
+      "provide scalable solutions using DSA principles",
     ],
   },
 ];
